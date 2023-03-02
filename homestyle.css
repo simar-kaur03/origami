@@ -49,7 +49,7 @@ h1{
     position: fixed;
     top: 29.5%;
     left: 22%;
-    height: 180px;
+    height: 170px;
     rotate: -2deg;
 
 }
@@ -70,7 +70,7 @@ h1{
     position: fixed;
     top: 18%;
     left: 38%;
-    height: 125px;
+    height: 115px;
 }
 
 .card1:hover .img-2{
@@ -89,7 +89,7 @@ h1{
 
 #lily{
     position: fixed;
-    height: 190px;
+    height: 180px;
     top: 57%;
     left: 50%;
 }
@@ -109,10 +109,10 @@ h1{
 
 #swan{
     position: fixed;
-    height: 210px;
-    top: 52%;
-    left: 64%;
-    rotate: 6deg;
+    height: 200px;
+    top: 55%;
+    left: 65%;
+    rotate: 12deg;
 }
 
 .card3:hover .img-4{
@@ -131,7 +131,7 @@ h1{
 
 #heart{
     position: fixed;
-    max-height: 130px;
+    max-height: 120px;
     top: 20%;
     left: 53%;
     rotate: 25deg;
@@ -152,7 +152,7 @@ h1{
 
 #bag{
     position: fixed;
-    max-height: 170px;
+    max-height: 160px;
     top: 19%;
     left: 64%;
     rotate: -25deg;
@@ -173,7 +173,7 @@ h1{
 
 #frog{
     position: fixed;
-    max-height: 195px;
+    max-height: 185px;
     top: 36%;
     left: 69%;
     rotate: 10deg;
@@ -194,7 +194,7 @@ h1{
 
 #butterfly{
     position: fixed;
-    max-height: 145px;
+    max-height: 135px;
     top: 57%;
     left: 29%;
     rotate: -30deg;
@@ -215,7 +215,7 @@ h1{
 
 #bird{
     position: fixed;
-    max-height: 125px;
+    max-height: 115px;
     top: 58%;
     left: 40%;
     rotate: -330deg;
