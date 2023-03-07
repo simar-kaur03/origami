@@ -1,0 +1,88 @@
+body{
+    background-size: auto;
+    background-color: rgb(16, 16, 189);
+    margin: 0%;
+}
+
+h1{
+    position: fixed;
+    top: 25.5%;
+    left: 33.3%;;
+    text-align: center;
+    color: aliceblue;
+    font-family: fatfrank, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50pt;
+    font-kerning: auto;
+}
+
+h3{
+    position: fixed;
+    top: 39.5%;
+    left: 32.7%;;
+    text-align: center;
+    color: aliceblue;
+    font-family: rucksack, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-kerning: auto;
+
+}
+
+
+.navbar a{
+    position: relative;
+    left: 42.5%;
+    float: left;
+    text-align: center;
+    font-family: fatfrank, sans-serif;
+    padding: 10px;
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 21px;
+    transition: all 0.3s;
+}
+
+.navbar a:hover {
+    background-color: aliceblue;
+    color: rgb(18, 18, 215);
+
+}
+
+#facts{
+    position: absolute;
+    top: 55%;
+    left: 34%;
+    background-color: aliceblue;
+    border: none;
+    color: rgb(18, 18, 215);
+    padding: 15px 15px;
+    text-align: center;
+    font-family: rucksack, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+
+#make{
+    position: absolute;
+    top: 55%;
+    left: 53%;
+    background-color: aliceblue;
+    border: none;
+    color: rgb(18,18, 215);
+    padding: 15px 15px;
+    text-align: center;
+    font-family: rucksack, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    cursor: pointer;
+}
