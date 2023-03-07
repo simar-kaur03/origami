@@ -4,12 +4,13 @@ body{
     background-position-y: 3%;
     background-image: url("img/web background.png") ;
     background-size: 1920px 1080px;
+    margin: 0%;
 }
 
 h1{
     position: fixed;
-    top: 31%;
-    left: 39%;;
+    top: 29.5%;
+    left: 37.3%;;
     text-align: center;
     color: rgb(18, 18, 215);
     font-family: fatfrank, sans-serif;
@@ -21,7 +22,7 @@ h1{
 
 .navbar a{
     position: relative;
-    left: 44%;
+    left: 42.5%;
     float: left;
     text-align: center;
     font-family: fatfrank, sans-serif;
@@ -47,10 +48,10 @@ h1{
 
 #crane{
     position: fixed;
-    top: 29.5%;
-    left: 22%;
+    top: 22.5%;
+    left: 21.5%;
     height: 170px;
-    rotate: -2deg;
+    rotate: 16deg;
 
 }
 .card:hover .img-1{
@@ -69,7 +70,7 @@ h1{
 #boat{
     position: fixed;
     top: 18%;
-    left: 38%;
+    left: 40%;
     height: 115px;
 }
 
@@ -91,7 +92,7 @@ h1{
     position: fixed;
     height: 180px;
     top: 57%;
-    left: 50%;
+    left: 51%;
 }
 
 .card2:hover .img-3{
@@ -133,7 +134,7 @@ h1{
     position: fixed;
     max-height: 120px;
     top: 20%;
-    left: 53%;
+    left: 56%;
     rotate: 25deg;
 }
 
@@ -174,8 +175,8 @@ h1{
 #frog{
     position: fixed;
     max-height: 185px;
-    top: 36%;
-    left: 69%;
+    top: 26%;
+    left: 65%;
     rotate: 10deg;
 }
 
@@ -195,8 +196,8 @@ h1{
 #butterfly{
     position: fixed;
     max-height: 135px;
-    top: 57%;
-    left: 29%;
+    top: 57.5%;
+    left: 28%;
     rotate: -30deg;
 }
 
